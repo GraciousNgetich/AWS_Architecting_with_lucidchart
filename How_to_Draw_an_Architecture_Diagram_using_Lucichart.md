@@ -8,7 +8,7 @@ If you don't have a LucidChart account. You can sign up for one [here](https://w
 After sign up, on the default diagram screen, ensure you enable the AWS architecture libraries for 2017 and 2019 in the Shape Manager.
 
 
-![S1](https://user-images.githubusercontent.com/103466963/171021811-3f136434-b38f-4a71-87e5-784e9c5a63a9.png)
+![S1](https://github.com/GraciousNgetich/AWS_Architecting_with_lucidchart/blob/main/img1.png)
 
 There are icons and shapes for the various AWS resources. 
 

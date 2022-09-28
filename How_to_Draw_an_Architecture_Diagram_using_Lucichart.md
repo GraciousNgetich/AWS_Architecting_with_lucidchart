@@ -21,7 +21,7 @@ We will start off with adding the AWS cloud container shape, It represents your 
 
 An AZ is a data centre (physical building). It is advised to have more than one availability zone to avoid a single point of failure. Let’s add it to the diagram:
 
-![zones](https://github.com/GraciousNgetich/AWS_Architecting_with_lucidchart/blob/main/img1.png)
+![zones](https://github.com/GraciousNgetich/AWS_Architecting_with_lucidchart/blob/main/img3.png)
 
 
 **Virtual Private Cloud (VPC)**

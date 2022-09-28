@@ -35,7 +35,7 @@ A virtual private cloud is a pool of networked cloud resources. It can span more
 A subnet is a subset of the overall VPC network and it only exists in a single availability zone, unlike its parent network, the VPC which can span over multiple AZs.
 Let’s add public subnets to the diagram.
 
-![Subnets](https://user-images.githubusercontent.com/103466963/171024233-ac1e9365-4e80-4213-a8ad-a7b41afd24be.png)
+![Subnets](https://github.com/GraciousNgetich/AWS_Architecting_with_lucidchart/blob/main/img4.png)
 
 **Internet Gateway**
 

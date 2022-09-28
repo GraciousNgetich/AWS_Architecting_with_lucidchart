@@ -14,7 +14,7 @@ There are icons and shapes for the various AWS resources.
 
 We will start off with adding the AWS cloud container shape, It represents your AWS account and all resources it can access.
 
-![S](https://user-images.githubusercontent.com/103466963/171022792-99bcc115-2d5f-40f8-9c14-00c068316a44.png)
+![S](https://github.com/GraciousNgetich/AWS_Architecting_with_lucidchart/blob/main/img2.png)
 
 
 **Availability Zones (AZ)**
@@ -28,7 +28,7 @@ An AZ is a data centre (physical building). It is advised to have more than one 
 
 A virtual private cloud is a pool of networked cloud resources. It can span more than one availability zone. Let’s add the VPC container to the diagram:
 
-![vpc](https://github.com/GraciousNgetich/AWS_Architecting_with_lucidchart/blob/main/img2.png)
+![vpc]()
 
 **Subnets**
 

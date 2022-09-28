@@ -48,7 +48,7 @@ The Internet Gateway (IGW) is a resource that enables inbound and outbound traff
 An autoscaling group manages multiple instances of the same resource (for example, servers), based on need. For instance, when there is a lot of internet traffic to a site, the autoscaling group can start more servers. When there is less traffic, the autoscaling group can reduce the number of servers. 
 Let’s add servers (EC2 instances) and an autoscaling group to the diagram.
 
-![Sc45](https://user-images.githubusercontent.com/103466963/171025150-3fb967d0-291c-4929-afbe-6ecb1619a3ab.png)
+![Sc45](https://github.com/GraciousNgetich/AWS_Architecting_with_lucidchart/blob/main/img6.png)
 
 **Load Balancer**
 

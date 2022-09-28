@@ -41,7 +41,7 @@ Let’s add public subnets to the diagram.
 
 The Internet Gateway (IGW) is a resource that enables inbound and outbound traffic from the internet to your VPC. We are going to attach it to the edge of your VPC. Let’s add it to the diagram.
 
-![Sc1](https://user-images.githubusercontent.com/103466963/171024483-85314af6-6cbd-4c3e-9353-25222f968a61.png)
+![Sc1](https://github.com/GraciousNgetich/AWS_Architecting_with_lucidchart/blob/main/img5.png)
 
 **Servers and AutoScaling Group**
 

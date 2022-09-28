@@ -28,7 +28,7 @@ An AZ is a data centre (physical building). It is advised to have more than one 
 
 A virtual private cloud is a pool of networked cloud resources. It can span more than one availability zone. Let’s add the VPC container to the diagram:
 
-![vpc](https://user-images.githubusercontent.com/103466963/171023827-4d0c6df3-085f-4da2-809b-8c6eeecced0e.png)
+![vpc](https://github.com/GraciousNgetich/AWS_Architecting_with_lucidchart/blob/main/img2.png)
 
 **Subnets**
 

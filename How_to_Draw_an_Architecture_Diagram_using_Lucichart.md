@@ -28,27 +28,27 @@ An AZ is a data centre (physical building). It is advised to have more than one 
 
 A virtual private cloud is a pool of networked cloud resources. It can span more than one availability zone. Let’s add the VPC container to the diagram:
 
-![vpc]()
+![vpc](https://github.com/GraciousNgetich/AWS_Architecting_with_lucidchart/blob/main/img4.png)
 
 **Subnets**
 
 A subnet is a subset of the overall VPC network and it only exists in a single availability zone, unlike its parent network, the VPC which can span over multiple AZs.
 Let’s add public subnets to the diagram.
 
-![Subnets](https://github.com/GraciousNgetich/AWS_Architecting_with_lucidchart/blob/main/img4.png)
+![Subnets](https://github.com/GraciousNgetich/AWS_Architecting_with_lucidchart/blob/main/img5.png)
 
 **Internet Gateway**
 
 The Internet Gateway (IGW) is a resource that enables inbound and outbound traffic from the internet to your VPC. We are going to attach it to the edge of your VPC. Let’s add it to the diagram.
 
-![Sc1](https://github.com/GraciousNgetich/AWS_Architecting_with_lucidchart/blob/main/img5.png)
+![Sc1](https://github.com/GraciousNgetich/AWS_Architecting_with_lucidchart/blob/main/img6.png)
 
 **Servers and AutoScaling Group**
 
 An autoscaling group manages multiple instances of the same resource (for example, servers), based on need. For instance, when there is a lot of internet traffic to a site, the autoscaling group can start more servers. When there is less traffic, the autoscaling group can reduce the number of servers. 
 Let’s add servers (EC2 instances) and an autoscaling group to the diagram.
 
-![Sc45](https://github.com/GraciousNgetich/AWS_Architecting_with_lucidchart/blob/main/img6.png)
+![Sc45](https://github.com/GraciousNgetich/AWS_Architecting_with_lucidchart/blob/main/img7.png)
 
 **Load Balancer**
 

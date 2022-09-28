@@ -55,7 +55,7 @@ Let’s add servers (EC2 instances) and an autoscaling group to the diagram.
 A load balancer takes incoming traffic and distributes it to two or more resources. For example, it can take inbound user requests to access your website, and it can distribute the requests evenly among two or more servers. Without a load balancer, having public-facing servers in more than one AZ would mean that users would have to use a different URL to reach each of the AZs. 
 This can be impractical compared to just a single URL. Now let’s add it to the diagram.
 
-![S123](https://user-images.githubusercontent.com/103466963/171025496-e368fd58-d673-479a-b9a1-c9636debe9f4.png)
+![S123](https://github.com/GraciousNgetich/AWS_Architecting_with_lucidchart/blob/main/img8.png)
 
 **Conclusion**
 
